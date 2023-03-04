@@ -12,6 +12,7 @@
 - 💬 Ask me about **Web Development and DSA**
 
 - 📫 How to reach me **kartikkishan06@gmail.com**
+- <img align="right" height= 300 width=350 src="https://user-images.githubusercontent.com/110308448/219136643-1da81fe6-a8da-47e1-a38e-4dfba79ece31.gif">
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_JsU1_n7Lt1m_4rBPCUnThnsvWHRBlGY/view](https://drive.google.com/file/d/1_JsU1_n7Lt1m_4rBPCUnThnsvWHRBlGY/view)
 
